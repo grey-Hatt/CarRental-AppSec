@@ -1,0 +1,12 @@
+# compiled output
+bin/
+*.class
+
+# MySQL JDBC driver (download it yourself, see README)
+lib/*.jar
+
+# IDE / OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
