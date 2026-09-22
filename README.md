@@ -1,11 +1,11 @@
 # Car Rental System
 
-A desktop car rental application built with **Java Swing** and **MySQL**, made as
+A desktop car rental application built with Java Swing and MySQL along with security assessmentreport having vulnerability findings and remediation insights made as
 part of an Object-Oriented Programming course. An admin can manage a fleet of
 cars; customers can browse available cars, rent one, view their rental
 history and return a car.
 
-![Java](https://img.shields.io/badge/Java-17%2B-orange) ![Swing](https://img.shields.io/badge/UI-Swing-blue) ![MySQL](https://img.shields.io/badge/Database-MySQL-lightgrey)
+Java 17(plus) - UI(Swing) - DataBase(MySQL)
 
 <p align="center">
   <img src="docs/screenshots/04-dashboard.png" alt="Dashboard" width="850">
