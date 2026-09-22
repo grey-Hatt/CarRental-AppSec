@@ -1,7 +1,6 @@
 # Car Rental System
 
-A desktop car rental application built with Java Swing and MySQL along with security assessmentreport having vulnerability findings and remediation insights made as
-part of an Object-Oriented Programming course. An admin can manage a fleet of
+A desktop car rental application built with Java Swing and MySQL along with security assessmentreport having vulnerability findings and remediation insights made as part of an Object-Oriented Programming course. An admin can manage a fleet of
 cars; customers can browse available cars, rent one, view their rental
 history and return a car.
 
@@ -16,12 +15,12 @@ Java 17(plus) - UI(Swing) - DataBase(MySQL)
 - **Admin**: add / update / delete cars, view available cars, view rented
   cars, view the full rental history of every customer.
 - **Customer**: register an account, log in, browse available cars, rent a
-  car, return a car (with an automatic price summary based on days rented),
+  car, return a car (with an calculated price summary based on days rented),
   view their own rental history by CNIC.
-- **Consistent UI**: a small reusable UI layer (`src/ui`) is used by every
-  screen, so the look and feel (dark theme, gold accents) is the same across
+- **Consistent UI**: a small reusable UI layer is used by every
+  screen so the look and feel is the same across
   the whole app.
-- **Responsive layout**: windows can be resized, and the car cards reflow to
+- **Responsive layout**: windows can be resized and the car cards reflow to
   fit the available width.
 
 ## Screenshots
@@ -132,4 +131,4 @@ on the main menu. Sample CNIC to try when renting a car: `35202-1234567-1`.
 
 ## License
 
-This project is provided as-is for portfolio and educational purposes.
+This project is provided as is for portfolio and educational purposes as a part of an Object-Oriented Programming course.
